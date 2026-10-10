@@ -1,0 +1,4 @@
+      Model Name: MacBook Air
+      Model Identifier: Mac14,2
+      Chip: Apple M2
+      Total Number of Cores: 8 (4 Performance and 4 Efficiency)

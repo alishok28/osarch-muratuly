@@ -1,0 +1,63 @@
+   Device Identifier:         disk3s1s1
+   Device Node:               /dev/disk3s1s1
+   Whole:                     No
+   Part of Whole:             disk3
+
+   Volume Name:               Macintosh HD
+   Mounted:                   Yes
+   Mount Point:               /
+
+   Partition Type:            41504653-0000-11AA-AA11-00306543ECAC
+   File System Personality:   APFS
+   Type (Bundle):             apfs
+   Name (User Visible):       APFS
+   Owners:                    Enabled
+
+   OS Can Be Installed:       No
+   Booter Disk:               disk3s2
+   Recovery Disk:             disk3s3
+   Media Type:                Общий
+   Protocol:                  Apple Fabric
+   SMART Status:              Verified
+   Volume UUID:               48F936B2-2AB6-47FC-BFB2-98EA832FDC07
+   Disk / Partition UUID:     48F936B2-2AB6-47FC-BFB2-98EA832FDC07
+
+   Disk Size:                 245.1 GB (245107195904 Bytes) (exactly 478724992 512-Byte-Units)
+   Device Block Size:         4096 Bytes
+
+   Volume Used Space:         13.7 GB (13657399296 Bytes) (exactly 26674608 512-Byte-Units)
+   Container Total Space:     245.1 GB (245107195904 Bytes) (exactly 478724992 512-Byte-Units)
+   Container Free Space:      166.3 GB (166258999296 Bytes) (exactly 324724608 512-Byte-Units)
+   Allocation Block Size:     4096 Bytes
+
+   Media OS Use Only:         No
+   Media Read-Only:           Yes
+   Volume Read-Only:          Yes (read-only mount flag set)
+
+   Device Location:           Internal
+   Removable Media:           Fixed
+
+   Solid State:               Yes
+   Hardware AES Support:      Yes
+
+   This disk is an APFS Volume Snapshot.  APFS Information:
+   APFS Snapshot Name:        com.apple.os.update-9A91EDBD140271063B786C536C3AC26E58AD0E7C7F07601D5628E11CD66CC339
+   APFS Snapshot UUID:        48F936B2-2AB6-47FC-BFB2-98EA832FDC07
+   APFS Container:            disk3
+   APFS Physical Store:       disk0s2
+   APFS Volume Group:         46A36C30-ABA3-4119-805D-011E5B4F71C9
+   Encrypted:                 No
+   FileVault:                 Yes
+   Sealed:                    Yes
+   Locked:                    No
+
+   APFS Snapshots are defined upon this APFS Volume.  Snapshot list:
+   Snapshot UUID:             48F936B2-2AB6-47FC-BFB2-98EA832FDC07
+   Name:                      com.apple.os.update-9A91EDBD140271063B786C536C3AC26E58AD0E7C7F07601D5628E11CD66CC339
+   XID:                       480844
+
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi   155Gi     8%    484k  1,6G    0%   /
+   Protocol:                  Apple Fabric
+   Disk Size:                 245.1 GB (245107195904 Bytes) (exactly 478724992 512-Byte-Units)
+   Solid State:               Yes
