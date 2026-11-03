@@ -1,0 +1,72 @@
+MacBook Air M2 — macOS host
+      Model Name: MacBook Air
+      Model Identifier: Mac14,2
+      Chip: Apple M2
+Apple M2
+hw.physicalcpu: 8
+hw.logicalcpu: 8
+hw.memsize: 17179869184
+Memory:
+
+      Memory: 16 GB
+      Type: LPDDR5
+      Manufacturer: Micron
+
+Storage:
+
+    Data:
+
+      Free: 77,62 GB (77 615 652 864 bytes)
+      Capacity: 245,11 GB (245 107 195 904 bytes)
+      Mount Point: /System/Volumes/Data
+      File System: APFS
+      Writable: Yes
+      Ignore Ownership: No
+      BSD Name: disk3s5
+      Volume UUID: 46A36C30-ABA3-4119-805D-011E5B4F71C9
+      Physical Drive:
+          Device Name: APPLE SSD AP0256Z
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: Apple Fabric
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+
+    Macintosh HD:
+
+      Free: 77,62 GB (77 615 652 864 bytes)
+      Capacity: 245,11 GB (245 107 195 904 bytes)
+      Mount Point: /
+      File System: APFS
+      Writable: No
+      Ignore Ownership: No
+      BSD Name: disk3s1s1
+      Volume UUID: 48F936B2-2AB6-47FC-BFB2-98EA832FDC07
+      Physical Drive:
+          Device Name: APPLE SSD AP0256Z
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: Apple Fabric
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+
+    VMware Fusion:
+
+      Free: 83,9 MB (83 873 792 bytes)
+      Capacity: 1,08 GB (1 079 828 480 bytes)
+      Mount Point: /Volumes/VMware Fusion
+      File System: HFS+
+      Writable: No
+      Ignore Ownership: Yes
+      BSD Name: disk4s1
+      Volume UUID: 2C45AFD5-DB58-3821-A2E3-B769BCDA3B79
+      Physical Drive:
+          Device Name: Disk Image
+          Media Name: Apple Disk Image Media
+          Medium Type: SSD
+          Protocol: Disk Image
+          Internal: No
+          Partition Map Type: GPT (GUID Partition Table)
+
