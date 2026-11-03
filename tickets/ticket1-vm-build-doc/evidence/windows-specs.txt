@@ -1,0 +1,76 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261103042230
+Username: DESKTOP-8TUJCKM\Mukhammadali
+RunAs User: DESKTOP-8TUJCKM\Mukhammadali
+Configuration Name: 
+Machine: DESKTOP-8TUJCKM (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 10056
+PSVersion: 5.1.26100.9457
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9457
+BuildVersion: 10.0.26100.9457
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\Mukhammadali\Desktop\windows-specs.txt
+PS C:\WINDOWS\system32> Get-CimInstance Win32_Processor | Format-List Name,NumberOfCores,NumberOfLogicalProcessors,MaxClockSpeed
+
+
+Name                      : Apple silicon
+NumberOfCores             : 1
+NumberOfLogicalProcessors : 1
+MaxClockSpeed             : 2000
+
+Name                      : Apple silicon
+NumberOfCores             : 1
+NumberOfLogicalProcessors : 1
+MaxClockSpeed             : 2000
+
+
+
+PS C:\WINDOWS\system32> Get-CimInstance Win32_ComputerSystem | Format-List Model,Manufacturer,TotalPhysicalMemory
+
+
+Model               : VMware20,1
+Manufacturer        : VMware, Inc.
+TotalPhysicalMemory : 4289474560
+
+
+
+PS C:\WINDOWS\system32> Get-CimInstance Win32_PhysicalMemory | Format-List Manufacturer,Capacity,Speed,SMBIOSMemoryType
+
+
+Manufacturer     : VMware Virtual RAM
+Capacity         : 4294967296
+Speed            :
+SMBIOSMemoryType : 3
+
+
+
+PS C:\WINDOWS\system32> Get-PhysicalDisk | Format-List FriendlyName,MediaType,BusType,Size
+
+
+FriendlyName : VMware Virtual NVMe Disk
+MediaType    : SSD
+BusType      : NVMe
+Size         : 68719476736
+
+
+
+PS C:\WINDOWS\system32> Get-CimInstance Win32_BaseBoard | Format-List Manufacturer,Product
+
+
+Manufacturer : VMware, Inc.
+Product      : VBSA
+
+
+
+PS C:\WINDOWS\system32> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20261103043044
+**********************
