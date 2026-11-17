@@ -2,24 +2,24 @@ role,component,model,price_kzt,source,date
 accountant,CPU,Intel core i5 13600KF OEM,107885,Kaspi,2026-11-17
 accountant,RAM,Kingston KF552C40BBK2-16 16gb,155500,Kaspi,2026-11-17
 accountant,SSD,ssd lexar nm610pro 1000gb,84888,Kaspi,2026-11-17
-accountant,Monitor,27 inch xiaomi redmi g27q 240hz p27qda-rg,100000,Kaspi,2026-11-17
+accountant,Monitor,27 inch asus vb27aq,110902,Kaspi,2026-11-17
 accountant,OS,microsoft windows 11 professional 64-bit,46886,Kaspi,2026-11-17
-accountant,TOTAL,,495159,Kaspi,2026-11-17
+accountant,TOTAL,,506061,Kaspi,2026-11-17
 sales,CPU,amd ryzen 5 5600 oem,63631,Kaspi,2026-11-17
 sales,RAM,adata xpg lancer blade white ax5u6000c3016g-dtlabrwh 32gb,397999,Kaspi,2026-11-17
 sales,SSD,ssd lexar nm610pro 1000gb,84888,Kaspi,2026-11-17
-sales,Monitor,24 inch samsung ls24dg300eixci,59990,Kaspi,2026-11-17
+sales,Monitor,27 inch lenovo loq 27q-10/68f3gacbeu,94980,Kaspi,2026-11-17
 sales,OS,microsoft fqc-10547 11 pro 64-bit,46800,Kaspi,2026-11-17
-sales,TOTAL,,653308,Kaspi,2026-11-17
+sales,TOTAL,,688298,Kaspi,2026-11-17
 web-developer,CPU,intel core i7 14700f oem,178946,Kaspi,2026-11-17
 web-developer,RAM,kingston kf556c36bbeak2-32 32gb,334990,Kaspi,2026-11-17
 web-developer,SSD,team group tm8fp6001t0c101 1tb,119999,Kaspi,2026-11-17
-web-developer,Monitor,27 inch samsung ls27dg600sixci,419034,Kaspi,2026-11-17
+web-developer,Monitor,27 inch asus be27aq,145717,Kaspi,2026-11-17
 web-developer,OS,microsoft windows 11 professional 64-bit,46886,Kaspi,2026-11-17
-web-developer,TOTAL,,1099855,Kaspi,2026-11-17
+web-developer,TOTAL,,826538,Kaspi,2026-11-17
 designer,CPU,amd ryzen 7 7700 oem,103071,Kaspi,2026-11-17
 designer,RAM,kingston kf432c16bbk2/32 32gb,169990,Kaspi,2026-11-17
 designer,SSD,ssd lexar nm610pro 1000gb,84888,Kaspi,2026-11-17
-designer,Monitor,27 inch refresh jy270,250000,Kaspi,2026-11-17
+designer,Monitor,27 inch xiaomi 4k monitor a27ui-eu p27ucb-ragl,139982,Kaspi,2026-11-17
 designer,OS,microsoft windows 11 professional 64-bit,46886,Kaspi,2026-11-17
-designer,TOTAL,,654835,Kaspi,2026-11-17
+designer,TOTAL,,544817,Kaspi,2026-11-17
