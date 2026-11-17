@@ -1,0 +1,11 @@
+$ lsblk
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sr0                        11:0    1 1024M  0 rom  
+nvme0n3                   259:0    0   20G  0 disk 
+├─nvme0n3p1               259:4    0  953M  0 part /boot/efi
+├─nvme0n3p2               259:5    0  1,8G  0 part /boot
+└─nvme0n3p3               259:6    0 17,3G  0 part 
+  └─ubuntu--vg-ubuntu--lv 252:0    0   10G  0 lvm  /
+nvme0n2                   259:1    0   20G  0 disk 
+nvme0n1                   259:2    0   20G  0 disk 
+nvme0n4                   259:3    0   20G  0 disk 

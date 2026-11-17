@@ -1,0 +1,2 @@
+$ sha256sum /mnt/mirror/important.txt
+141ac3064e9fd5eff8d0ffed5231912429a72de1999f03f63739596057a25c05  /mnt/mirror/important.txt

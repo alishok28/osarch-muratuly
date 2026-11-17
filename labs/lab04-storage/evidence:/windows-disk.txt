@@ -1,0 +1,19 @@
+number         : 0
+PartitionStyle : GPT
+size           : 68719476736
+
+number         : 1
+PartitionStyle : GPT
+size           : 2147483648
+
+
+
+
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRema
+                                                                                    ining
+----------- ------------ -------------- --------- ------------ ----------------- --------
+E           LAB4         NTFS           Fixed     Healthy      OK                 1.97 GB
+
+
+PS C:\WINDOWS\system32>
+

@@ -1,0 +1,36 @@
+$ cat /proc/mdstat
+Personalities : [raid1] 
+md0 : active raid1 nvme0n1p1[0]
+      20952064 blocks super 1.2 [2/1] [U_]
+      bitmap: 0/1 pages [0KB], 65536KB chunk
+
+unused devices: <none>
+$ sudo mdadm --detail /dev/md0
+/dev/md0:
+           Version : 1.2
+     Creation Time : Wed Nov 11 04:27:10 2026
+        Raid Level : raid1
+        Array Size : 20952064 (19.98 GiB 21.45 GB)
+     Used Dev Size : 20952064 (19.98 GiB 21.45 GB)
+      Raid Devices : 2
+     Total Devices : 1
+       Persistence : Superblock is persistent
+
+     Intent Bitmap : Internal
+
+       Update Time : Thu Nov 12 06:05:17 2026
+             State : clean, degraded 
+    Active Devices : 1
+   Working Devices : 1
+    Failed Devices : 0
+     Spare Devices : 0
+
+Consistency Policy : bitmap
+
+              Name : lab01:0  (local to host lab01)
+              UUID : 5ec93e54:68ff710e:8cdbbe00:2eb3e4cc
+            Events : 31
+
+    Number   Major   Minor   RaidDevice State
+       0     259        7        0      active sync   /dev/nvme0n1p1
+       -       0        0        1      removed
