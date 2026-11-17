@@ -1,10 +1,10 @@
 role,component,model,price_kzt,source,date
 accountant,CPU,Intel core i5 13600KF OEM,107885,Kaspi,2026-11-17
-accountant,RAM,Kingston KF552C40BBK2-16,155500,Kaspi,2026-11-17
+accountant,RAM,Kingston KF552C40BBK2-16 16gb,155500,Kaspi,2026-11-17
 accountant,SSD,ssd lexar nm610pro 1000gb,84888,Kaspi,2026-11-17
 accountant,Monitor,27 inch xiaomi redmi g27q 240hz p27qda-rg,100000,Kaspi,2026-11-17
 accountant,OS,microsoft windows 11 professional 64-bit,46886,Kaspi,2026-11-17
-accountant,TOTAL,,,Kaspi,2026-11-17
+accountant,TOTAL,,495159,Kaspi,2026-11-17
 sales,CPU,,,Kaspi,2026-11-17
 sales,RAM,,,Kaspi,2026-11-17
 sales,SSD,,,Kaspi,2026-11-17
