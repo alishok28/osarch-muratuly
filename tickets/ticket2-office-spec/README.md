@@ -10,31 +10,27 @@ Everyone says we should just buy the same four machines, is that right?
 Make sure they last a few years. Monitors included.
 
 ## 2. What was actually needed
-[Что запрос упустил. Подсказки:
-- Директор думает, что нужны четыре одинаковые машины. Почему это неверно (нагрузка разная: память у продаж, CPU у разработчика, цветопередача у дизайнера).
-- Чего не хватает в запросе: нет данных, какие программы используют роли.
-- Какие допущения ты сделал: например, что бухгалтер не работает с тяжёлыми базами, что дизайнер не работает с видео.
-- Что бы ты спросил у директора.]
+
+- director thinks we need 4 similar computers. its wrong because different jobs have different pressure on the pc(for ex: designer needs colorful monitor, sales need good memory, etc)
+- No data about programs and apps they usually use for each type of job
 
 ## 3. What I did
-[Шаги: описание ролей, поиск цен в Kaspi, сверка сумм, расчёт бюджета, выбор мониторов. Команд здесь нет, поэтому пиши текстом.]
+I searched for pc parts in Kaspi, found their characteristics and prices, and wrote it down. Some prices are a bit different because I searched item on my phone and when I took screenshots in mac, they differed a bit
 
 ## 4. Evidence
-- [budget.csv](budget.csv) — цены, источник и дата по каждой позиции
-- [builds.md](builds.md) — обоснование четырёх сборок
-- [evidence/vendor-quotes/](evidence/vendor-quotes/) — скриншоты страниц с ценами
-[Добавь строку на каждый файл и одну фразу, что он доказывает.]
+- budget.csv — prices, data 
+- builds.md — reasoning of the pc structure 
+- evidence/vendor-quotes/ — screenshots of the prices
+
 
 ## 5. What I would do differently
-[Хотя бы одно конкретное. Например: "Проверил бы цены в день покупки, потому что магазин мог изменить цену" или "Не выбрал бы игровой монитор для продаж".]
-
+I would check the price the day I buy because the prices change almost every time
 ## Three questions
 
 **1. Which machine would you upgrade first in 18 months, and why?**
-[Подсказка: обычно память у продаж, потому что 32 ГБ может стать мало через полтора года при росте CRM. Обоснуй цифрами.]
-
+I would change the ram for sales because 32gb might fill up in 6 months
 **2. Pre-built vs. building: what does the company gain and lose?**
-[Подсказка: готовые дешевле по времени и гарантии, но сборка даёт выбор комплектующих под роль и дешевле по цене. Оцени разницу в тенге, если сможешь.]
+ready pcs are easier to set up , but building it on your own is cheaper.
 
 **3. Who complains about performance first, and about what?**
-[Подсказка: один человек, одна причина, например: "Продажи, через месяц, на память при одновременных звонках и вкладках".]
+Probably sales for ram to fill up
