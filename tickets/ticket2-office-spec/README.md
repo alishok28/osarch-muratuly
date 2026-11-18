@@ -19,7 +19,7 @@ I searched for pc parts in Kaspi, found their characteristics and prices, and wr
 
 ## 4. Evidence
 - budget.csv — prices, data 
-- builds.md — reasoning of the pc structure 
+- builds.md — 4 roles, 20 positions, 5 positions of a role, summary 2565714
 - evidence/vendor-quotes/ — screenshots of the prices
 
 
@@ -29,6 +29,7 @@ I would check the price the day I buy because the prices change almost every tim
 
 **1. Which machine would you upgrade first in 18 months, and why?**
 I would change the ram for sales because 32gb might fill up in 6 months
+
 **2. Pre-built vs. building: what does the company gain and lose?**
 ready pcs are easier to set up , but building it on your own is cheaper.
 
